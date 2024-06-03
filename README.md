@@ -80,30 +80,30 @@ This document serves as a supplement to help ensure that all rubric criteria wer
    -  **The school name and school code**
       -  Taken directly from `given_data.csv` with the help of Excel formulas.
    -  **Mean enrollment for Grade 10 across all years**
-      -
+      -  Tested and shown in `Screenshot.png`
    -  **Mean enrollment for Grade 11 across all years**
-      -
+      -  Tested and shown in `Screenshot.png`
    -  **Mean enrollment for Grade 12 across all years**
-      -
+      -  Tested and shown in `Screenshot.png`
    -  **Highest enrollment for a single grade within the entire time period**
-      -
+      -  Tested and shown in `Screenshot.png`
    -  **Total enrollment for each year from 2013 to 2022**
-      -
+      -  Tested and shown in `Screenshot.png`
    -  **The total enrollment across ten years**
-      -
+      -  Tested and shown in `Screenshot.png`
    -  **The mean total yearly enrollment across ten years**
-      -
+      -  Tested and shown in `Screenshot.png`
    -  **If no enrollment numbers over 500, print "No enrollments over 500"**
-      -
+      -  Tested and shown in `Screenshot.png`
    -  **If any enrollment numbers of 500, print the median value of the >500 enrollments**
-      -
+      -  Tested and shown in `Screenshot.png`
 
 -  **The following general calculations will be checked for accuracy (will be the same for every run)**
    -  **The mean enrollment for 2013**
-      -
+      -  Tested and shown in `Screenshot.png`
    -  **The mean enrollment for 2022**
-      -
+      -  Tested and shown in `Screenshot.png`
    -  **Highest enrollment for a single grade within the entire time period (across all schools)**
-      -
+      -  Tested and shown in `Screenshot.png`- Tested and shown in `Screenshot.png`
    -  **Lowest enrollment for a single grade within the entire time period (across all schools)**
-   -
+      -  Tested and shown in `Screenshot.png`
