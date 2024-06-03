@@ -118,7 +118,7 @@ def print_school_statistics(school_data):
     # Some schools have no enrollments over 500.
     filtered_data = school_data[(school_data > 500) & (~np.isnan(school_data))]
     if filtered_data.size == 0:
-        print("For all enrollments over 500, the median value was: Not Applicable (no enrollments over 500)")
+        print("For all enrollments over 500, the median value was: No enrollments over 500.")
     else:
         print(f"For all enrollments over 500, the median value was: {int(np.median(filtered_data))}")
 
